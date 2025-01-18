@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-18)
+
+<section class="features">
+
+### Features
+
+-   [`a26f2f5`](https://github.com/stdlib-js/stdlib/commit/a26f2f5a8ce3e751efef81d937b252972c5e1e25) - add C implementation for `stats/base/dists/degenerate/mgf` [(#4582)](https://github.com/stdlib-js/stdlib/pull/4582)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3542](https://github.com/stdlib-js/stdlib/issues/3542)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a26f2f5`](https://github.com/stdlib-js/stdlib/commit/a26f2f5a8ce3e751efef81d937b252972c5e1e25) - **feat:** add C implementation for `stats/base/dists/degenerate/mgf` [(#4582)](https://github.com/stdlib-js/stdlib/pull/4582) _(by Karan Anand, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
