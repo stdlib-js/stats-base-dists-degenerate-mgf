@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-05-30)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a3a900c`](https://github.com/stdlib-js/stdlib/commit/a3a900cc12d70440163c9a46a07cea796913e89e) - **docs:** replace manual `for` loop in examples [(#7123)](https://github.com/stdlib-js/stdlib/pull/7123) _(by Harsh)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`a26f2f5`](https://github.com/stdlib-js/stdlib/commit/a26f2f5a8ce3e751efef81d937b252972c5e1e25) - **feat:** add C implementation for `stats/base/dists/degenerate/mgf` [(#4582)](https://github.com/stdlib-js/stdlib/pull/4582) _(by Karan Anand, stdlib-bot)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Karan Anand
 
 </section>
